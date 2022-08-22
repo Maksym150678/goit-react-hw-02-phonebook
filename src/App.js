@@ -1,7 +1,5 @@
+import React from 'react';
 import Phonebook from './components/Phonebook/Phonebook';
-
-import './App.css';
-
 
 
 function App() {

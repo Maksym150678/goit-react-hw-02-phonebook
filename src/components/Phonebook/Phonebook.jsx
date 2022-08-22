@@ -4,7 +4,6 @@ import { nanoid } from 'nanoid';
 
 import FormAddPhonebook from './FormAddPhonebook/FormAddPhonebook';
 import PhonebookList from './PhonebookList/PhonebookList';
-
 import styles from './phonebook.module.css';
 
 class Phonebook extends Component {

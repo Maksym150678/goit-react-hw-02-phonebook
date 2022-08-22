@@ -19,7 +19,6 @@ class FormAddPhonebook extends Component {
     }
 
     state = {
-        contacts: [],
         name: '',
         number: ''
       }
