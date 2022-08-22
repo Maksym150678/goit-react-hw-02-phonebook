@@ -1,0 +1,29 @@
+.list {
+    letter-spacing: none;
+}
+
+.item {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.filter-title {
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #fff;
+    cursor: pointer;
+    padding: 5px 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: blue;
+}
